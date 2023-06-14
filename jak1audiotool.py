@@ -2,7 +2,7 @@ import os
 import argparse
 import subprocess
 
-# Path to JakAudioTool_cmd.exe
+# Path to JakAudioTool_cmd.exe. Change This.
 executable_path = "JakAudioTool_cmd.exe"
 
 # Removes the extesion from filename
